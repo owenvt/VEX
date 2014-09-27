@@ -21,7 +21,8 @@
 *   You should have received a copy of the GNU General Public License
 *    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 *
-*   Connact me at owenvt@gmail.com with questions and comments.
+*   Connact me at owenvt@gmail.com or as Owen on the Vex forums with
+*   questions and comments.
 **********************************************************************************/
 
 //competition control
