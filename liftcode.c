@@ -71,7 +71,7 @@ task rampMotors()
         motor[port] = MAX_SPEED;
 
       //if the motor is less than the min speed, fix it
-      if(motor[port] < MIN_SPEED)
+      else if(motor[port] < MIN_SPEED)
         motor[port] = MIN_SPEED;
     }
     //delay to smooth motor ramping
